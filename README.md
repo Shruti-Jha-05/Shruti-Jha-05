@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋, My name is Shruti Jha
+### Web Developer
 <!--
 **Shruti-Jha-05/Shruti-Jha-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
